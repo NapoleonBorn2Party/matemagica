@@ -15,7 +15,7 @@ Checkpoint 2
 - Crie um arquivo css chamado estilo.css.
 - O projeto se baseia em uma página que trata de matemática para crianças e fala que a matemática é mágica.
 - O seu dever é criar a página e chegar em um resultado próximo ou igual ao da imagem abaixo abaixo.
-![alt text](https://github.com/NapoleonBorn2Party/matemagica/tree/main/blob?raw=true)
+![alt text](https://github.com/NapoleonBorn2Party/matemagica/tree/main/blob/image.jpg?raw=true)
 
 Todas as imagens serão disponibilizadas.
 A lista de cores utilizadas na página acima éessa:
