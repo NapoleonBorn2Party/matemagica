@@ -1,6 +1,6 @@
 header img {
     width: 100%;
-    filter: drop-shadow(0px 10px 0.5em #000000);
+    box-shadow: 0px 10px 0.5em #000000;
 }
 
 h1 {
@@ -8,11 +8,15 @@ h1 {
     font-family: Verdana, Geneva, sans-serif;
     color: #FFFF;
     text-shadow: 0 0 0.25em #FFFF;
-    /* verdana trebuchet */
+    font-size: 500%;
 }
 
 h2 {
     font-family: Verdana, Geneva, sans-serif;
+}
+
+p {
+    font-family: trebuchet;
 }
 
 #lateral {
@@ -21,14 +25,20 @@ h2 {
 
 #lateral {
     width: 20%;
+    float: left;
 }
 
 #lateral h2 {
     text-align: center;
 }
 
+#lateral ul {
+    list-style-type: none;
+}
+
 #lateral p {
-    text-align: left;
+    width: 100%;
+    text-align: center;
     background-color: #0B340B;
     color: #FFFFFF;
 }
@@ -38,34 +48,57 @@ h2 {
 }
 
 #conteudo {
-    width: 50%;
-    height: 949px;
-    float: right;
-    
+    font-size: 170%;
+    width: 100%;
+    height: 100%;
 }
 
 #final {
+    float: left;
     background-color: #F6F0E0;
+
 }
 
-
-
-
-
-
-
-.imagem {
+#educacao {
     text-align: center;
-    
+    height: 200px;
+    top: 2000px;
+
 }
 
-.texto{
+#texto {
     position: absolute;
+    width: 150%;
+    height: 200px;
+    float: left;
+
+}
+
+#icon_git {
+    font-weight: bold;
+    font-size: 170%;
     width: 100%;
+    float: left;
+    color: #FFFFFF;
 }
 
-.imagem_icons{
-    position: absolute;
+#icon_facebook {
+    font-size: 170%;
+    font-weight: bold;
     text-align: left;
-    width: 100%
+    float: left;
+    color: #FFFFFF;
+}
+
+#icon_twitter {
+    font-weight: bold;
+    font-size: 170%;
+    color: #FFFFFF;
+    width: 100%;
+    float: left;
+}
+
+footer {
+    background-image: url("../img/footer.jpg");
+    color: #FFFFFF;
 }
