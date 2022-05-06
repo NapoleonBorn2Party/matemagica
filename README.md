@@ -41,5 +41,5 @@ A entrega deve seguir o seguinte processo:
 
 liveshare: https://prod.liveshare.vsengsaas.visualstudio.com/join?7B2FC6062CD376956BAC218871B4D4F47931
 
-Observaç
-Beatriz e Yasmin usaram a mesma máquina para
+Observação:
+Beatriz e Yasmin usaram a mesma máquina para fazer o trabalho.

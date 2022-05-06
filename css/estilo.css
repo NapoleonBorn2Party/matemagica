@@ -1,0 +1,71 @@
+header img {
+    width: 100%;
+    filter: drop-shadow(0px 10px 0.5em #000000);
+}
+
+h1 {
+    position: absolute;
+    font-family: Verdana, Geneva, sans-serif;
+    color: #FFFF;
+    text-shadow: 0 0 0.25em #FFFF;
+    /* verdana trebuchet */
+}
+
+h2 {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#lateral {
+    background-color: #F6F0E0;
+}
+
+#lateral {
+    width: 20%;
+}
+
+#lateral h2 {
+    text-align: center;
+}
+
+#lateral p {
+    text-align: left;
+    background-color: #0B340B;
+    color: #FFFFFF;
+}
+
+#lateral img {
+    width: 100%;
+}
+
+#conteudo {
+    width: 50%;
+    height: 949px;
+    float: right;
+    
+}
+
+#final {
+    background-color: #F6F0E0;
+}
+
+
+
+
+
+
+
+.imagem {
+    text-align: center;
+    
+}
+
+.texto{
+    position: absolute;
+    width: 100%;
+}
+
+.imagem_icons{
+    position: absolute;
+    text-align: left;
+    width: 100%
+}
