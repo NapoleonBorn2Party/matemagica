@@ -40,3 +40,6 @@ A entrega deve seguir o seguinte processo:
 - Compactar o repositório do projeto juntamente com um arquivo txt com o nome do grupo e nome de cada integrante e rm e submeter para o TEAMs.
 
 liveshare: https://prod.liveshare.vsengsaas.visualstudio.com/join?7B2FC6062CD376956BAC218871B4D4F47931
+
+Observaç
+Beatriz e Yasmin usaram a mesma máquina para
