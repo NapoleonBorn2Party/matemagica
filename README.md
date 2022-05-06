@@ -37,3 +37,5 @@ A entrega deve seguir o seguinte processo:
 - Todo trabalho deverá ser sincronizado com um repositório remoto no github e deve conter no mínimo 1 commit de cada integrante do grupo.
 - Deve ser dada permissãoao usuário alecarlosjesus a esse repositório.
 - Compactar o repositório do projeto juntamente com um arquivo txt com o nome do grupo e nome de cada integrante e rm e submeter para o TEAMs.
+
+liveshare: https://prod.liveshare.vsengsaas.visualstudio.com/join?7B2FC6062CD376956BAC218871B4D4F47931
